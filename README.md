@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Sholaiman Khan Shitol</h2>
+<h1 align="center">Hi 👋, I'm Sholaiman Khan Shitol</h1>
 <h3 align="center">Under graduate student at Aiub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sholaiman-khan-shitol&label=Profile%20views&color=0e75b6&style=flat" alt="sholaiman-khan-shitol" /> </p>
 
-- 🔭 I’m currently working on [software testing](https://github.com/sholaiman-khan-shitol/projects/blob/main/SQT%20FINAL%20Report.pdf)
+- 🔭 I’m currently working on [software testing](https://github.com/sholaiman-khan-shitol/Software-Quality-Testing)
 
 - 🌱 I’m currently learning **API testing**
 
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sholaiman-khan-shitol&show_icons=true&locale=en" alt="sholaiman-khan-shitol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sholaiman-khan-shitol&" alt="sholaiman-khan-shitol" /></p>
-
