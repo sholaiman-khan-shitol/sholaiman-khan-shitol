@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sholaiman Khan Shitol</h1>
-<h3 align="center">Under graduate student at Aiub</h3>
+<h3 align="center">A graduate student from Aiub</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sholaiman-khan-shitol&label=Profile%20views&color=0e75b6&style=flat" alt="sholaiman-khan-shitol" /> </p>
 
